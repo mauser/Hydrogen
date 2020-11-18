@@ -512,4 +512,5 @@ void showUsage()
 	std::cout << "                 Level, if present, may be None, Error, Warning, Info, Debug or 0xHHHH" << std::endl;
 	std::cout << "   -v, --version - Show version info" << std::endl;
 	std::cout << "   -h, --help - Show this help message" << std::endl;
+
 }
