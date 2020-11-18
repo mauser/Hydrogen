@@ -89,5 +89,4 @@ deploy:
   file_glob: true
   on:
     condition: $TRAVIS_OS_NAME == "osx"
-    tags: true
-    repo: hydrogen-music/hydrogen
+    repo: mauser/hydrogen
