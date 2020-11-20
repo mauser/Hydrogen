@@ -90,3 +90,4 @@ deploy:
   on:
     condition: $TRAVIS_OS_NAME == "osx"
     repo: mauser/hydrogen
+    branch: smo-ci-test
